@@ -1,2 +1,8 @@
-# chatbot
-Chatbot with Slack and Watson Services 
+ChatbotRuby
+=============
+
+## Usage
+
+SLACK_API_TOKEN=... rackup config.ru
+OR
+foreman start
