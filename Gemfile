@@ -11,10 +11,10 @@ gem 'puma'
 gem 'sinatra'
 gem 'dotenv'
 
-group :development, :test do
-  gem 'rake', '~> 10.4'
-  gem 'foreman'
-end
+#group :development, :test do
+#  gem 'rake', '~> 10.4'
+#  gem 'foreman'
+#end
 
 group :test do
   gem 'rspec'
